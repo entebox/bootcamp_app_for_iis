@@ -26,6 +26,6 @@ Copy your website to your windows server
 
 Browse to “http://localhost:5100/” from your microsoft machine
 
-install all dependencies to support .net, use this link:
+install all dependencies to support .net, use this link to find a solution for the missing installation:
 
 https://forums.asp.net/t/2172068.aspx?ASP+NET+Core+MVC+deploying+to+IIS+Error+Http+Error+500+19+
